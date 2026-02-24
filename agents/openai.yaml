@@ -1,0 +1,4 @@
+interface:
+  display_name: "Effect v4"
+  short_description: "Migrate and implement using current Effect v4 APIs"
+  default_prompt: "Apply Effect v4 APIs and migration-safe patterns based on the current effect-smol codebase."
